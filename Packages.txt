@@ -1,5 +1,6 @@
 Coffee Script
 Color Highlighter
+Github Tools
 Git Gutter
 Handlebars
 ES6 Syntax

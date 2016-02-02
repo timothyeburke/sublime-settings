@@ -1,0 +1,10 @@
+Coffee Script
+Color Highlighter
+Git Gutter
+Handlebars
+ES6 Syntax
+JsFormat
+LESS
+Package Control
+SCSS
+
